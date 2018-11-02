@@ -1,0 +1,49 @@
+.Fecha {    	
+  margin: 0 auto
+}
+
+.Fecha p {
+	color: white; 
+  	font-size: 15px
+}
+
+.Explanation{
+	margin: 0 auto;
+	width: 50%
+}
+
+.Explanation p {
+	color: white; 
+  	font-size: 15px
+}
+
+.Version{
+	margin: 0 auto
+}
+
+.Version p {
+	color: white; 
+  	font-size: 15px
+}
+
+.Title{
+	margin: 0 auto
+}
+
+.Title h3 {
+	color: red
+}
+
+.Copyright{
+	margin: 0 auto;
+    width: 50%
+}
+
+.Copyright p {
+	color: white;
+	font-size: 15px 
+}
+
+.NasaApodForm{
+	display: inline-block
+}
